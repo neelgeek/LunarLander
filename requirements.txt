@@ -106,7 +106,7 @@ pywinpty==0.5.5
 PyYAML==5.1.2
 pyzmq==18.1.0
 Quandl==3.3.0
-requests==2.19.1
+requests==2.20.0
 requests-oauthlib==0.8.0
 responses==0.8.1
 rsa==3.4.2
