@@ -69,7 +69,7 @@ ndg-httpsclient==0.4.3
 notebook==6.0.1
 numpy==1.15.2
 oauthlib==2.0.6
-opencv-python==3.4.3.18
+opencv-python==3.4.7.28
 pandas==0.22.0
 pandocfilters==1.4.2
 parso==0.5.1
