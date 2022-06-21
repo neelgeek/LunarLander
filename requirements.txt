@@ -67,7 +67,7 @@ nbconvert==5.6.0
 nbformat==4.4.0
 ndg-httpsclient==0.4.3
 notebook==6.0.1
-numpy==1.15.2
+numpy==1.22.0
 oauthlib==2.0.6
 opencv-python==3.4.3.18
 pandas==0.22.0
